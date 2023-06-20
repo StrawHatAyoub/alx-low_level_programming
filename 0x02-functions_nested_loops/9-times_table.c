@@ -1,5 +1,3 @@
-9-times_table.c
-
 #include "main.h"
 
 /**
