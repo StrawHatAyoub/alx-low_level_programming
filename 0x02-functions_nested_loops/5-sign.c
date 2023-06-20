@@ -8,19 +8,19 @@
  */
 int print_sign(int n)
 {
-    if (n > 0)
-    {
-        _putchar('+');
-        return 1; /* Positive number */
-    }
-    else if (n < 0)
-    {
-        _putchar('-');
-        return -1; /* Negative number */
-    }
-    else
-    {
-        _putchar('0');
-        return 0; /* Zero */
-    }
+	if (n > 0)
+	{
+		_putchar('+');
+		return (1); /* Positive number */
+	}
+	else if (n < 0)
+	{
+		_putchar('-');
+		return (-1); /* Negative number */
+	}
+	else
+	{
+		_putchar('0');
+		return (0); /* Zero */
+	}
 }
