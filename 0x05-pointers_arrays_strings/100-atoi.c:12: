@@ -1,0 +1,4 @@
+toi.c:19: ERROR: trailing statements should be on next line
+100-atoi.c:25: ERROR: trailing whitespace
+100-atoi.c:30: ERROR: trailing whitespace
+100-atoi.c:31: ERROR: trailing whitespace
